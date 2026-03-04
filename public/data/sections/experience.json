@@ -1,0 +1,171 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Experience",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "{{Work}} Experience"
+            },
+            "es": {
+                "title_short": "Experiencia",
+                "title_short_nav": "Experiencia",
+                "title_long_prefix": "Resumen de mi",
+                "title_long": "Experiencia {{Laboral}}"
+            },
+            "fr": {
+                "title_short": "Expérience",
+                "title_short_nav": "Expérience",
+                "title_long_prefix": "Résumé de mon",
+                "title_long": "Parcours {{Professionel}}"
+            },
+            "ko": {
+                "title_short": "경험",
+                "title_short_nav": "경험",
+                "title_long_prefix": "이것은 내",
+                "title_long": "{{직업적}} 경험"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "dateStart"
+            },
+            "items": [
+                {
+                    "id": 2,
+                    "img": "images/pictures/cdss.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 8
+                    },
+                    "dateEnd": {
+                        "year": 2023,
+                        "month": 10
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Web}} Developer",
+                            "province": "Chennai",
+                            "country": "India",
+                            "institution": "Codim Solutions And Services Llp",
+                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
+                            "list": [],
+                            "tags": [
+                                "HTML",
+                                "CSS",
+                                "JavaScript",
+                                "PHP8.0",
+                                "MySQL",
+                                "Laravel"
+                            ]
+                        },
+                        "es": {
+                            "title": "Ingeniero {{Full-Stack}}",
+                            "province": "",
+                            "country": "Remoto",
+                            "institution": "Coursera",
+                            "text": "Trabajé en la mejora del sitio web de Coursera implementando nuevas funciones y optimizando la experiencia del usuario, utilizando tecnologías tanto de frontend como de backend para garantizar una funcionalidad fluida.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "Ingénieur {{Full-Stack}}",
+                            "province": "",
+                            "country": "Télétravail",
+                            "institution": "Coursera",
+                            "text": "Participation à l'amélioration du site web de Coursera en développant de nouvelles fonctionnalités et en optimisant l’expérience utilisateur, en utilisant des technologies frontend et backend pour assurer un fonctionnement fluide.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "ko": {
+                            "title": "{{풀스택}} 엔지니어",
+                            "province": "",
+                            "country": "원격",
+                            "institution": "Coursera",
+                            "text": "Coursera 웹사이트의 기능을 향상시키기 위해 새로운 기능을 구현하고 사용자 경험을 개선하는 작업을 수행했으며, 프론트엔드와 백엔드 기술을 모두 활용하여 원활한 동작을 보장했습니다.",
+                            "list": [],
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "img": "images/pictures/download.jpeg",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "dateStart": {
+                        "year": 2023,
+                        "month": 12
+                    },
+                    "dateEnd": {
+                        "year": 2026,
+                        "month": 1
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Full-Stack}} Developer",
+                            "province": "Chennai",
+                            "country": "India",
+                            "institution": "Kodukku Classifieds Private Limited",
+                            "text": "Developed and maintained [[scalable backend systems]] for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
+                            "list": [],
+                            "tags": [
+                                "HTML",
+                                "CSS",
+                                "JavaScript",
+                                "reACT.JS",
+                                "REACT NATIVE",
+                                "NODE.JS",
+                                "MSSQL",
+                                "sOCKET",
+                                "REDIS",
+                                "FIREBASE"
+                            ]
+                        },
+                        "es": {
+                            "title": "Desarrollador {{Backend}}",
+                            "province": "Toronto",
+                            "country": "Canadá",
+                            "institution": "Sapphire Studio",
+                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para varios clientes, optimizando el rendimiento de bases de datos e implementando APIs RESTful para mejorar la funcionalidad de las aplicaciones.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "Développeur {{Backend}}",
+                            "province": "Toronto",
+                            "country": "Canada",
+                            "institution": "Sapphire Studio",
+                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour divers clients, optimisation des performances des bases de données et mise en place d’API RESTful pour améliorer les fonctionnalités des applications.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "ko": {
+                            "title": "{{백엔드}} 개발자",
+                            "province": "토론토",
+                            "country": "캐나다",
+                            "institution": "Sapphire Studio",
+                            "text": "다양한 클라이언트를 위한 [[확장 가능한 백엔드 시스템]]을 개발하고 유지보수했으며, 데이터베이스 성능을 최적화하고 RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
+                            "list": [],
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
